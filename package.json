@@ -23,15 +23,15 @@
     "url": "https://github.com/ui-router/sample-app-angularjs.git"
   },
   "dependencies": {
-    "@uirouter/angularjs": "^1.0.20",
-    "@uirouter/dsr": "^1.0.2",
+    "@uirouter/angularjs": "^1.0.22",
+    "@uirouter/dsr": "^1.1.0",
     "@uirouter/sticky-states": "^1.5.0",
     "@uirouter/visualizer": "^6.0.2",
-    "angular": "^1.7.4",
+    "angular": "^1.7.8",
     "oclazyload": "^1.1.0"
   },
   "devDependencies": {
-    "@uirouter/cypress-runner": "^1.0.9",
+    "@uirouter/cypress-runner": "^1.0.10",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
     "babel-plugin-syntax-dynamic-import": "^6.18.0",
@@ -39,8 +39,8 @@
     "babel-preset-es2015-ie": "^6.7.0",
     "shx": "^0.3.2",
     "source-map-loader": "^0.2.4",
-    "webpack": "^4.17.2",
-    "webpack-cli": "^3.1.0",
-    "webpack-dev-server": "^3.1.8"
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.2.1"
   }
 }
